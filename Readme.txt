@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Selecao
-Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+A student based website that allows users to share their projects and researches with each other to either collaborate and/or improve on each other's work.
